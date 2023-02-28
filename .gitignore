@@ -3,6 +3,7 @@ CppArithmetic/.vs
 **/Release
 **/Debug
 target
+.vscode
 
 
 # Prerequisites
