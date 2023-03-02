@@ -1,0 +1,2 @@
+cbindgen --config cbindgen.toml --crate dll_experimentation --output target/release/dll_experimentation.h
+cbindgen --config cbindgen.toml --crate dll_experimentation --output target/debug/dll_experimentation.h
